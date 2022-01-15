@@ -1,0 +1,85 @@
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.csproj.AssemblyReference.cache
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.csproj.ResolveComReference.cache
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_BC_NCC.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_BC_NV.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_BC_Quy.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Dangnhap.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Ketnoi.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Main.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_CTHDB.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_CTHDN.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Donvitinh.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Hanghoa.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_HDB.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_HDN.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Khachhang.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Loaihang.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_NCC.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Nhanvien.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_Splash_Screen.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_TK.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Presentation.fr_TKHDN.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.Properties.Resources.resources
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.csproj.GenerateResource.cache
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.csproj.CoreCompileInputs.cache
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\Quản lý bán hàng điện tử\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\bin\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\bin\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.AssemblyReference.cache
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.ResolveComReference.cache
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_NCC.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_NV.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_Quy.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Dangnhap.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Ketnoi.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Main.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_CTHDB.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_CTHDN.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Donvitinh.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Hanghoa.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_HDB.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_HDN.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Khachhang.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Loaihang.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_NCC.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Nhanvien.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Splash_Screen.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_TK.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_TKHDN.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Properties.Resources.resources
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.GenerateResource.cache
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.CoreCompileInputs.cache
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\StoreManage\StoreManager\obj\x86\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\bin\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\bin\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.AssemblyReference.cache
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.ResolveComReference.cache
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_NCC.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_NV.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_BC_Quy.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Dangnhap.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Ketnoi.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Main.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_CTHDB.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_CTHDN.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Donvitinh.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Hanghoa.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_HDB.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_HDN.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Khachhang.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Loaihang.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_NCC.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Nhanvien.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_Splash_Screen.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_TK.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Presentation.fr_TKHDN.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Properties.Resources.resources
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.GenerateResource.cache
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.csproj.CoreCompileInputs.cache
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.exe
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.pdb
+D:\CNPM\Tổng hợp project C#\New folder\StoreManage\StoreManager\obj\x86\Debug\StoreManager.Fragment.frmPayment.resources

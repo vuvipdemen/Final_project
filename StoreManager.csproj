@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53BFA1EE-BC68-4EE9-B5F4-3E0F5806A036}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StoreManager</RootNamespace>
+    <AssemblyName>StoreManager</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fragment\frmMain1.cs" />
+    <Compile Include="Fragment\frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmPayment.Designer.cs">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StoreStructor\Structor\ST_RP_SB.cs" />
+    <Compile Include="StoreStructor\Structor\ST_RP_IB.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Unit.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Product.cs" />
+    <Compile Include="StoreStructor\Structor\ST_SB.cs" />
+    <Compile Include="StoreStructor\Structor\ST_IB.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Customer.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Sector.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Supplier.cs" />
+    <Compile Include="StoreStructor\Structor\ST_Staff.cs" />
+    <Compile Include="StoreStructor\Structor\ST_User.cs" />
+    <Compile Include="StoreStructor\EC\EC_RP_SB.cs" />
+    <Compile Include="StoreStructor\EC\EC_RP_IB.cs" />
+    <Compile Include="StoreStructor\EC\EC_Unit.cs" />
+    <Compile Include="StoreStructor\EC\EC_Product.cs" />
+    <Compile Include="StoreStructor\EC\EC_SB.cs" />
+    <Compile Include="StoreStructor\EC\EC_IB.cs" />
+    <Compile Include="StoreStructor\EC\EC_Customer.cs" />
+    <Compile Include="StoreStructor\EC\EC_Sector.cs" />
+    <Compile Include="StoreStructor\EC\EC_Supplier.cs" />
+    <Compile Include="StoreStructor\EC\EC_Staff.cs" />
+    <Compile Include="StoreStructor\EC\EC_User.cs" />
+    <Compile Include="Database\ConnectDB.cs" />
+    <Compile Include="Database\SQL_User.cs" />
+    <Compile Include="Fragment\frm_RP_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_Supplier.Designer.cs">
+      <DependentUpon>frm_RP_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_Staff.Designer.cs">
+      <DependentUpon>frm_RP_Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_Month.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_Month.Designer.cs">
+      <DependentUpon>frm_RP_Month.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmConnect.Designer.cs">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\SQL_RP_SP.cs" />
+    <Compile Include="Database\SQL_RP_IB.cs" />
+    <Compile Include="Database\SQL_Unit.cs" />
+    <Compile Include="Database\SQL_Product.cs" />
+    <Compile Include="Database\SQL_SB.cs" />
+    <Compile Include="Database\SQL_IB.cs" />
+    <Compile Include="Database\SQL_Customer.cs" />
+    <Compile Include="Database\SQL_Sector.cs" />
+    <Compile Include="Database\SQL_Supplier.cs" />
+    <Compile Include="Database\SQL_Staff.cs" />
+    <Compile Include="Fragment\frm_RP_SB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_SB.Designer.cs">
+      <DependentUpon>frm_RP_SB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_IB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_RP_IB.Designer.cs">
+      <DependentUpon>frm_RP_IB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmUnit.Designer.cs">
+      <DependentUpon>frmUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmProduct.Designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmSB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmSB.Designer.cs">
+      <DependentUpon>frmSB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmIB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmIB.Designer.cs">
+      <DependentUpon>frmIB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmCustomer.Designer.cs">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmSector.Designer.cs">
+      <DependentUpon>frmSector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmSupplier.Designer.cs">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frm_Splash_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frm_Splash_Screen.Designer.cs">
+      <DependentUpon>frm_Splash_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fragment\frmSearchIB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fragment\frmSearchIB.Designer.cs">
+      <DependentUpon>frmSearchIB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Fragment\frmPayment.resx">
+      <DependentUpon>frmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_RP_Supplier.resx">
+      <DependentUpon>frm_RP_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_RP_Staff.resx">
+      <DependentUpon>frm_RP_Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_RP_Month.resx">
+      <DependentUpon>frm_RP_Month.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmConnect.resx">
+      <DependentUpon>frmConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_RP_SB.resx">
+      <DependentUpon>frm_RP_SB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_RP_IB.resx">
+      <DependentUpon>frm_RP_IB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmUnit.resx">
+      <DependentUpon>frmUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmSB.resx">
+      <DependentUpon>frmSB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmIB.resx">
+      <DependentUpon>frmIB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmCustomer.resx">
+      <DependentUpon>frmCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmSector.resx">
+      <DependentUpon>frmSector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmSupplier.resx">
+      <DependentUpon>frmSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frm_Splash_Screen.resx">
+      <DependentUpon>frm_Splash_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmSearch.resx">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fragment\frmSearchIB.resx">
+      <DependentUpon>frmSearchIB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
